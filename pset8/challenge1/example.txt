@@ -1,0 +1,3 @@
+Hello
+hopefully this is a txt file
+i would like to try reading you with python
